@@ -1,0 +1,12 @@
+{
+  "search_placeholder": "Search for items...",
+  "cart": "Cart",
+  "sign_in": "Sign In",
+  "light_mode": "Light Mode",
+  "dark_mode": "Dark Mode",
+  "detecting_location": "Detecting location...",
+  "location_error": "Unable to get location",
+  "geolocation_not_supported": "Geolocation not supported",
+  "location_not_found": "Location not found",
+  "geocoding_error": "Error getting address"
+}

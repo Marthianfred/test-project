@@ -1,0 +1,12 @@
+{
+  "search_placeholder": "Buscar artículos...",
+  "cart": "Carrito",
+  "sign_in": "Iniciar Sesión",
+  "light_mode": "Modo Claro",
+  "dark_mode": "Modo Oscuro",
+  "detecting_location": "Detectando ubicación...",
+  "location_error": "No se pudo obtener la ubicación",
+  "geolocation_not_supported": "Geolocalización no soportada",
+  "location_not_found": "Ubicación no encontrada",
+  "geocoding_error": "Error al obtener la dirección"
+}
